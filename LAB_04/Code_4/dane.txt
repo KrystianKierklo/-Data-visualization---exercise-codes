@@ -1,0 +1,2 @@
+Informatyka, 2021, Inżynieria systemów informtycznych
+[0, 1, 2, 3, 4]
